@@ -12,7 +12,7 @@ categories = [
 ]
 menu = "main"
 
-weight= 1
+weight= 10
 
 +++
 # ZeroTier内网穿透

@@ -1,3 +1,19 @@
++++
+title = "Google编译规范总结"
+description = ""
+tags = [
+    "HUGO",
+    "blog",
+]
+date = "2022-04-17"
+categories = [
+    "工具",
+]
+menu = "main"
+
+weight= 1
+
++++
 # 版本说明
 
 * Google编译规范总结
