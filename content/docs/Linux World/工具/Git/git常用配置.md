@@ -65,7 +65,7 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 增加全局git配置文件/etc/gitconfig 
 
 ```shell
-root@3520f78b5030:/home/imac# cat /etc/gitconfig 
+root@3520f78b5030:/home/pi# cat /etc/gitconfig 
 [color]
         ui = true
 [alias]
