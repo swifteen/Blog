@@ -1,5 +1,5 @@
 +++
-title = "Google编译规范总结"
+title = "Google编程规范总结"
 description = ""
 tags = [
     "HUGO",
@@ -16,7 +16,7 @@ weight= 1
 +++
 # 版本说明
 
-* Google编译规范总结
+* Google编程规范总结
 
 | 日期     | 版本 | 修改内容 |
 | -------- | ---- | -------- |
