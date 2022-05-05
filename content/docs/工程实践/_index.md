@@ -1,6 +1,6 @@
 ---
 weight: 2
-bookFlatSection: false
+bookFlatSection: true
 title: "工程实践"
 ---
 

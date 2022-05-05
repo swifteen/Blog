@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "3233ee5c18b64caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8cc038dae5d0ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/读书笔记/EffectiveCpp/6.继承与面向对象.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbbb09c6fec383a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e158bdc6da4bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e892dae3127379e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7eb60ee13cd6283",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53df80411bde1030",
+    "type": "split",
+    "children": [
+      {
+        "id": "4693d98f5234ac97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdfb91eb0bcd8b0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/读书笔记/EffectiveCpp/6.继承与面向对象.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a8cc038dae5d0ea",
+  "lastOpenFiles": [
+    "docs/读书笔记/EffectiveCpp/6.继承与面向对象.md",
+    "docs/读书笔记/_index.md",
+    "docs/读书笔记/EffectiveCpp/5.实现.md",
+    "docs/读书笔记/EffectiveCpp/3.资源管理.md",
+    "docs/读书笔记/EffectiveCpp/4.设计与声明.md",
+    "docs/读书笔记/EffectiveCpp/2.构造、析构、赋值运算.md",
+    "docs/读书笔记/EffectiveCpp/1.让自己习惯C++.md",
+    "docs/工作总结/日志模块实现思路.md"
+  ]
+}
